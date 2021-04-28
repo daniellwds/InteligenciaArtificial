@@ -1,0 +1,35 @@
+Enxaqueca       : Não = "Não apresenta nível definido"
+
+Enxaqueca       : Sim
+Perda de olfato : Não = "Não apresenta nível definido"
+
+Enxaqueca       : Sim
+Perda de olfato : Sim
+Dor muscular    : Não
+Tosse           : Não = "Gastrointestinal"
+
+Enxaqueca       : Sim
+Perda de olfato : Sim
+Dor muscular    : Não
+Tosse           : Sim
+Dor de garganta : Não = "Grave nível um (fadiga)"
+
+Enxaqueca       : Sim
+Perda de olfato : Sim
+Dor muscular    : Sim
+Tosse           : Sim
+Dor de garganta : Sim
+Dor no peito    : Sim
+Sem febre       : Sim = "Gripe sem febre"
+
+Enxaqueca       : Sim
+Perda de olfato : Sim
+Dor muscular    : Sim
+Tosse           : Sim
+Dor de garganta : Sim
+Dor no peito    : Sim
+Sem febre       : Não
+Rouquidão       : Sim
+Febre           : Sim
+Perda de apetite: Sim
+Diarréia        : Sim = "Grave nível três (abdominal e respiratório)"
